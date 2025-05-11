@@ -1,0 +1,6 @@
+# Ignore history folders
+history/
+
+# Ignore environment files
+.env
+*.env
